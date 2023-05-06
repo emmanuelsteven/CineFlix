@@ -218,7 +218,7 @@ Click [this link](https://drive.google.com/file/d/1lR3ce165nLBaLiN2gQ-fvVdlqXOIq
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/davidolanrewaju/Leaderboard/issues).
+Feel free to check the [issues page](https://github.com/emmanuelsteven/CineFlix/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
